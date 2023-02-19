@@ -1,1 +1,1 @@
-This is chapter 2 of Story directory. This is the git ersion control example.
+Time: 3:00 pm. This is chapter 2 of Story directory. This is the git ersion control example.
